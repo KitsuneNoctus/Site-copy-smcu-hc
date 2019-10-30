@@ -1,8 +1,4 @@
-.hero-background-img {
-    background-image: url("alexander-mils-lCPhGxs7pww-unsplash.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    padding-top:200px;
-    padding-bottom:200px;
-  }
+.background-img {
+  background-image: url("lg-promo-overlay.png");
+  background-size: cover;
+}
